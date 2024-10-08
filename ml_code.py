@@ -9,3 +9,4 @@ def model2():
 def model3():
     print('ML3 model created')
 
+print('ML2 is the preffered model')
