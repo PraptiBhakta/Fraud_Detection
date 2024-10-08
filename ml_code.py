@@ -11,4 +11,4 @@ def model3():
 
 print('ML1 is the preffered model')
 
-print('ML1 is the preffered model')
+print('ML3 is the preffered model')
